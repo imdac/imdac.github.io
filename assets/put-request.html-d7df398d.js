@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2567e21b","path":"/modules/laravel/restful-controllers/put-request.html","title":"Submit a PUT Request","lang":"en-US","frontmatter":{"prev":"form-handling","next":"form-validation"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-controllers/put-request.md"}');export{e as data};

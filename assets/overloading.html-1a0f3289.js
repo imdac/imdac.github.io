@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f205766a","path":"/modules/php/php-object-access-control/overloading.html","title":"PHP Overloading","lang":"en-US","frontmatter":{"prev":"visibility-modifiers.html","next":"setter-getter.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-access-control/overloading.md"}');export{e as data};

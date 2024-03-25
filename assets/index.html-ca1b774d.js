@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-957f3d12","path":"/modules/animation/principles-of-animation/","title":"Principles of Animation","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/animation/principles-of-animation/README.md"}');export{i as data};

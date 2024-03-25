@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7d147d09","path":"/modules/tools/services/codepen.html","title":"CodePen","lang":"en-US","frontmatter":{"prev":"github","next":"scrimba"},"headers":[],"git":{},"filePathRelative":"modules/tools/services/codepen.md"}');export{e as data};

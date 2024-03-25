@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-b8d97da4","path":"/modules/vue/managing-classes/animation-framework.html","title":"Using an Animation Framework","lang":"en-US","frontmatter":{"prev":"transitions","next":"transition-groups"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/animation-framework.md"}');export{a as data};

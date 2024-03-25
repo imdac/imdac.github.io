@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-448468be","path":"/modules/sass/sassscript/color-functions.html","title":"Sass Color Functions","lang":"en-US","frontmatter":{"prev":"math","next":"lists"},"headers":[],"git":{},"filePathRelative":"modules/sass/sassscript/color-functions.md"}');export{s as data};

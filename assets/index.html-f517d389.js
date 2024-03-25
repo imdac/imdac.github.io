@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37dea848","path":"/modules/firebase/hosting/","title":"Firebase Hosting","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/firebase/hosting/README.md"}');export{e as data};
