@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6358f804","path":"/modules/php/php-data-objects/no-results.html","title":"Checking for No Results","lang":"en-US","frontmatter":{"prev":"fetching-results","next":"non-select-queries"},"headers":[],"git":{},"filePathRelative":"modules/php/php-data-objects/no-results.md"}');export{e as data};

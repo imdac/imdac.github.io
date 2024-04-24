@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-18b02a43","path":"/modules/php/php-templates/","title":"PHP Templates","lang":"en-US","frontmatter":{"next":"includes"},"headers":[],"git":{},"filePathRelative":"modules/php/php-templates/README.md"}');export{e as data};

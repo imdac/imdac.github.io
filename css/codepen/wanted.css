@@ -1,0 +1,49 @@
+.container {
+  overflow: auto;
+}
+
+.poster {
+  background-color: tan;
+  color: saddlebrown;
+  text-align: center;
+}
+
+.poster h1, .poster h2, .poster h3, .poster h4 {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+.poster h1 {
+  font-size: 4rem;
+  font-family: 'Alfa Slab One', serif;
+  text-transform: uppercase;
+  text-shadow: 3px 3px 1px moccasin;
+}
+
+.poster h2 {
+  display: inline-block;
+  font-size: 2rem;
+  font-family: 'Kalnia', serif;
+  background-color: saddlebrown;
+  color: tan;
+}
+
+.poster h3 {
+  font-size: 3rem;
+  font-family: 'Kalnia', serif;
+  font-weight: 400;
+  color: saddlebrown;
+}
+
+.poster h4 {
+  font-size: 3.5rem;
+  font-family: 'Alfa Slab One', serif;
+  text-transform: uppercase;
+  color: saddlebrown;
+}
+
+
+.poster img {
+  max-width: 100%;
+}

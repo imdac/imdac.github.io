@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4e3c8d30","path":"/mtm6404/exercises/movie-api.html","title":"Movie API","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/exercises/movie-api.md"}');export{e as data};

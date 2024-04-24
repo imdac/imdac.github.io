@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ab195902","path":"/mtm6404/projects/task-manager.html","title":"Task Manager","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/projects/task-manager.md"}');export{e as data};

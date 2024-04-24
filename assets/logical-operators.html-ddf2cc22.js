@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d8555876","path":"/modules/js/deprecated/logical-operators.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Logical Operators","slug":"logical-operators","link":"#logical-operators","children":[]}],"git":{},"filePathRelative":"modules/js/_deprecated/logical-operators.md"}');export{e as data};

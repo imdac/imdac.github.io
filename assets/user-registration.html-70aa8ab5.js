@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c419a204","path":"/modules/laravel/authentication/user-registration.html","title":"User Registration","lang":"en-US","frontmatter":{"prev":"./"},"headers":[],"git":{},"filePathRelative":"modules/laravel/authentication/user-registration.md"}');export{t as data};

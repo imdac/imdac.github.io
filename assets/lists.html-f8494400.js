@@ -1,0 +1,39 @@
+import{_ as i,M as o,p as l,q as p,R as n,t as s,N as e,a3 as t}from"./framework-dd056dd6.js";const c={},r=n("h1",{id:"sass-lists",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#sass-lists","aria-hidden":"true"},"#"),s(" Sass Lists")],-1),u={class:"watch"},d={href:"https://www.linkedin.com/learning/sass-essential-training/creating-list-elements",target:"_blank",rel:"noopener noreferrer"},v={href:"https://sass-lang.com/documentation/values/lists",target:"_blank",rel:"noopener noreferrer"},k=t(`<div class="language-scss line-numbers-mode" data-ext="scss"><pre class="language-scss"><code><span class="token comment">// a list of fonts</span>
+<span class="token property"><span class="token variable">$font-family</span></span><span class="token punctuation">:</span> Helvetica<span class="token punctuation">,</span> Arial<span class="token punctuation">,</span> sans-serif<span class="token punctuation">;</span>
+
+<span class="token comment">// a list of border radius</span>
+<span class="token property"><span class="token variable">$border-radius</span></span><span class="token punctuation">:</span> 0px 20px 0px 20px<span class="token punctuation">;</span>
+
+<span class="token selector">body </span><span class="token punctuation">{</span>
+  <span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token variable">$font-family</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">box </span><span class="token punctuation">{</span>
+  <span class="token property">width</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span>
+  <span class="token property">height</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span>
+  <span class="token property">border</span><span class="token punctuation">:</span> 1px solid #333<span class="token punctuation">;</span>
+  <span class="token property">border-radius</span><span class="token punctuation">:</span> <span class="token variable">$border-radius</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="access-an-element" tabindex="-1"><a class="header-anchor" href="#access-an-element" aria-hidden="true">#</a> Access an Element</h2><p>Elements within a list are reference by their indexes. However, unlike arrays in many other programming languages, the index <code>1</code> indicates the first element of the list. Negative numbers can be used for indexes as well, with <code>-1</code> referring to the last element in the list. The <code>nth()</code> function can be used to access element of a list by it&#39;s index.</p>`,3),m={class:"custom-container danger"},b=n("p",{class:"custom-container-title"},"NOTE",-1),h={href:"https://sass-lang.com/documentation/modules",target:"_blank",rel:"noopener noreferrer"},f=t(`<div class="language-scss line-numbers-mode" data-ext="scss"><pre class="language-scss"><code><span class="token comment">// a list of fonts</span>
+<span class="token property"><span class="token variable">$font-family</span></span><span class="token punctuation">:</span> Helvetica<span class="token punctuation">,</span> Arial<span class="token punctuation">,</span> sans-serif<span class="token punctuation">;</span>
+
+<span class="token comment">// a list of border radius</span>
+<span class="token property"><span class="token variable">$border-radius</span></span><span class="token punctuation">:</span> 0px 20px 0px 20px<span class="token punctuation">;</span>
+
+<span class="token comment">// getting the first font</span>
+<span class="token property"><span class="token variable">$first-font</span></span><span class="token punctuation">:</span> <span class="token function">nth</span><span class="token punctuation">(</span><span class="token variable">$font-family</span><span class="token punctuation">,</span> 1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token comment">// getting the last border radius</span>
+<span class="token property"><span class="token variable">$last-radius</span></span><span class="token punctuation">:</span> <span class="token function">nth</span><span class="token punctuation">(</span><span class="token variable">$border-radius</span><span class="token punctuation">,</span> -1<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+<span class="token selector">body </span><span class="token punctuation">{</span>
+  <span class="token property">font-family</span><span class="token punctuation">:</span> <span class="token variable">$first-font</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">box </span><span class="token punctuation">{</span>
+  <span class="token property">width</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span>
+  <span class="token property">height</span><span class="token punctuation">:</span> 100px<span class="token punctuation">;</span>
+  <span class="token property">border</span><span class="token punctuation">:</span> 1px solid #333<span class="token punctuation">;</span>
+  <span class="token property">border-radius</span><span class="token punctuation">:</span> <span class="token variable">$last-radius</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1),_={class:"try"},g={href:"https://www.sassmeister.com/gist/70cf5a285de231f0ebd81b0eb34a3081",target:"_blank",rel:"noopener noreferrer"};function y(x,w){const a=o("ExternalLinkIcon");return l(),p("div",null,[r,n("div",u,[n("p",null,[n("a",d,[s('Watch "Creating list elements" on LinkedIn Learning'),e(a)])])]),n("p",null,[n("a",v,[s("Lists"),e(a)]),s(", like arrays in JavaScript, are a sequence of values. The elements in a list can be separated by commas or by spaces, while brackets are not required. Because lists are in fact used all the time in CSS, Sass list are often indistinguishable.")]),k,n("div",m,[b,n("p",null,[s("In October 2019, Sass introduced its new modules system with "),n("a",h,[s("Build-In Modules"),e(a)]),s(", which will eventually replace the older global functions. While we will continue to use the global function for now, it important to note that the Sass team has started discouraging their use and will be deprecating them in the near future.")])]),f,n("div",_,[n("p",null,[n("a",g,[s("Try it yourself on Sassmeister"),e(a)])])])])}const S=i(c,[["render",y],["__file","lists.html.vue"]]);export{S as default};

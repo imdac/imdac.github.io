@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-35a14f99","path":"/modules/html/html-attributes/","title":"HTML Attributes","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"The id and class attributes","slug":"the-id-and-class-attributes","link":"#the-id-and-class-attributes","children":[]}],"git":{},"filePathRelative":"modules/html/html-attributes/README.md"}');export{t as data};

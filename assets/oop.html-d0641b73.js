@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f37f7d9c","path":"/modules/php/php-object-basics/oop.html","title":"Object Oriented Programming","lang":"en-US","frontmatter":{"prev":"/modules/php/php-object-basics/","next":"classes.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-basics/oop.md"}');export{e as data};

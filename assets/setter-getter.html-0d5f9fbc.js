@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f4bc968c","path":"/modules/php/php-object-access-control/setter-getter.html","title":"PHP Setter and Getter Methods","lang":"en-US","frontmatter":{"prev":"overloading.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-access-control/setter-getter.md"}');export{e as data};

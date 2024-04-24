@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2f1edf37","path":"/modules/js/js-arrow-functions/","title":"JavaScript Arrow Functions","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Syntax","slug":"syntax","link":"#syntax","children":[]}],"git":{},"filePathRelative":"modules/js/js-arrow-functions/README.md"}');export{t as data};

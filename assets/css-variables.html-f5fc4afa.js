@@ -1,0 +1,27 @@
+import{_ as e,M as t,p as o,q as p,R as s,t as n,N as c,a3 as i}from"./framework-dd056dd6.js";const l={},r=s("h1",{id:"css-variables-in-bootstrap",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#css-variables-in-bootstrap","aria-hidden":"true"},"#"),n(" CSS Variables in Bootstrap")],-1),u={href:"https://getbootstrap.com/docs/5.3/customize/css-variables/",target:"_blank",rel:"noopener noreferrer"},d=i(`<div class="custom-container warning"><p class="custom-container-title">Note</p><p>There are two versions of variables, one for light and the other for dark themes. It is important to modify both where applicable.</p></div><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">:root,
+[data-bs-theme=light]</span> <span class="token punctuation">{</span>
+  <span class="token property">--bs-blue</span><span class="token punctuation">:</span> #0d6efd<span class="token punctuation">;</span>
+  <span class="token property">--bs-indigo</span><span class="token punctuation">:</span> #6610f2<span class="token punctuation">;</span>
+  <span class="token property">--bs-purple</span><span class="token punctuation">:</span> #6f42c1<span class="token punctuation">;</span>
+  <span class="token property">--bs-pink</span><span class="token punctuation">:</span> #d63384<span class="token punctuation">;</span>
+  <span class="token property">--bs-red</span><span class="token punctuation">:</span> #dc3545<span class="token punctuation">;</span>
+  ../
+<span class="token punctuation">}</span>
+
+<span class="token selector">[data-bs-theme=dark]</span> <span class="token punctuation">{</span>
+  <span class="token property">color-scheme</span><span class="token punctuation">:</span> dark<span class="token punctuation">;</span>
+  <span class="token property">--bs-body-color</span><span class="token punctuation">:</span> #dee2e6<span class="token punctuation">;</span>
+  <span class="token property">--bs-body-color-rgb</span><span class="token punctuation">:</span> 222<span class="token punctuation">,</span> 226<span class="token punctuation">,</span> 230<span class="token punctuation">;</span>
+  <span class="token property">--bs-body-bg</span><span class="token punctuation">:</span> #212529<span class="token punctuation">;</span>
+  <span class="token property">--bs-body-bg-rgb</span><span class="token punctuation">:</span> 33<span class="token punctuation">,</span> 37<span class="token punctuation">,</span> 41<span class="token punctuation">;</span>
+  <span class="token property">--bs-emphasis-color</span><span class="token punctuation">:</span> #fff<span class="token punctuation">;</span>
+  ../
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="custom-container warning"><p class="custom-container-title">NOTE</p><p>While it is possible to change the values of any of these variables, it will not change any of the classes created by Bootstrap.</p></div><p>The above variables can be used in any custom CSS added after the Bootstrap stylesheet is loaded using the <code>var()</code> function.</p><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token selector">body</span> <span class="token punctuation">{</span>
+  <span class="token property">font</span><span class="token punctuation">:</span> 1rem/1.5 <span class="token function">var</span><span class="token punctuation">(</span>--font-family-sans-serif<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token selector">a</span> <span class="token punctuation">{</span>
+  <span class="token property">color</span><span class="token punctuation">:</span> <span class="token function">var</span><span class="token punctuation">(</span>--blue<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="custom-container warning"><p class="custom-container-title">NOTE</p><p>While the Bootstrap does offer breakpoint variables, they cannot be used in CSS and are intended to be used with JavaScript only.</p></div>`,6);function v(b,k){const a=t("ExternalLinkIcon");return o(),p("div",null,[r,s("p",null,[n("Under "),s("a",u,[n("Customize > CSS Variables"),c(a)]),n(" Bootstrap includes around many custom properties or CSS variables that can be used to retrieve many of the Bootstrap custom values including colors, fonts and breakpoints.")]),d])}const h=e(l,[["render",v],["__file","css-variables.html.vue"]]);export{h as default};

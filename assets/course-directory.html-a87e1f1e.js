@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c0cd082","path":"/modules/tools/development/laravel/mac/course-directory.html","title":"Course Directory","lang":"en-US","frontmatter":{"prev":"valet","next":"phpmyadmin"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/course-directory.md"}');export{e as data};
