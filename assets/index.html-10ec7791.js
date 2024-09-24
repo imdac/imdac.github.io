@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3e81542a","path":"/modules/animation/animation-best-practices/","title":"Animation Best Practices","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/animation/animation-best-practices/README.md"}');export{t as data};

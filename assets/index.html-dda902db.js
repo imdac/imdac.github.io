@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2a5bafac","path":"/modules/vue/managing-classes/","title":"Managing Classes with Vue","lang":"en-US","frontmatter":{"next":"binding-classes"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/README.md"}');export{a as data};

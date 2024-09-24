@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-20ff4a72","path":"/modules/css/css-grid/","title":"CSS Grid Layout","lang":"en-US","frontmatter":{"next":"grid-container"},"headers":[{"level":2,"title":"CSS Grid Terminology","slug":"css-grid-terminology","link":"#css-grid-terminology","children":[]}],"git":{},"filePathRelative":"modules/css/css-grid/README.md"}');export{e as data};

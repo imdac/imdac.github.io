@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23424ac8","path":"/modules/tools/services/pluralsight.html","title":"PluralSight","lang":"en-US","frontmatter":{"prev":"linkedin-learning","next":"udacity"},"headers":[],"git":{},"filePathRelative":"modules/tools/services/pluralsight.md"}');export{e as data};

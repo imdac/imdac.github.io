@@ -1,0 +1,1 @@
+import{_ as a,p as s,q as t,R as e,t as o}from"./framework-dd056dd6.js";const n={},r=e("h1",{id:"bootstrap-and-sass",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#bootstrap-and-sass","aria-hidden":"true"},"#"),o(" Bootstrap and Sass")],-1),c=[r];function d(_,i){return s(),t("div",null,c)}const l=a(n,[["render",d],["__file","index.html.vue"]]);export{l as default};

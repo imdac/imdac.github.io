@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-177db0ac","path":"/modules/bootstrap/bootstrap-grid/nested-columns.html","title":"Bootstrap Nested Columns","lang":"en-US","frontmatter":{"prev":"offset-columns","next":"reordering-columns"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-grid/nested-columns.md"}');export{t as data};

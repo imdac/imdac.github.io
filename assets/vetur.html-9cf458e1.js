@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e87c4e6e","path":"/modules/tools/development/vue/vetur.html","title":"Installing Vetur","lang":"en-US","frontmatter":{"prev":"vue-devtools"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/vue/vetur.md"}');export{e as data};

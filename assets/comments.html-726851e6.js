@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-da90eda2","path":"/modules/sass/sassscript/comments.html","title":"Sass Comments","lang":"en-US","frontmatter":{"prev":"/modules/sass/sassscript/","next":"math"},"headers":[],"git":{},"filePathRelative":"modules/sass/sassscript/comments.md"}');export{s as data};

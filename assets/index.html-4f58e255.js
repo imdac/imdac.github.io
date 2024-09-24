@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5db2c52e","path":"/modules/php/php-debugging/","title":"PHP Debugging","lang":"en-US","frontmatter":{"next":"common-problems.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-debugging/README.md"}');export{e as data};

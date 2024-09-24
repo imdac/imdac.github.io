@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-ec97438a","path":"/modules/sass/sassscript/if-statements.html","title":"Sass @if Statements","lang":"en-US","frontmatter":{"prev":"content-blocks","next":"for"},"headers":[],"git":{},"filePathRelative":"modules/sass/sassscript/if-statements.md"}');export{s as data};

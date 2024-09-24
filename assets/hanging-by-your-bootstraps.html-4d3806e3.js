@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5c8ad34d","path":"/mtm6302/labs/hanging-by-your-bootstraps.html","title":"Hanging By Your Bootstraps","lang":"en-US","frontmatter":{"sidebar":false},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6302/labs/hanging-by-your-bootstraps.md"}');export{t as data};
