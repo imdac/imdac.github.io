@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78eba888","path":"/modules/tools/development/laravel/mac/adminer.html","title":"Installing adminer for macOS","lang":"en-US","frontmatter":{"prev":"course-directory","next":"xdebug"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/adminer.md"}');export{e as data};

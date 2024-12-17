@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d0121844","path":"/modules/vue/firebase/","title":"Firebase","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/vue/firebase/README.md"}');export{e as data};

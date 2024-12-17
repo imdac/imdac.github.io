@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-17dcfb75","path":"/modules/bootstrap/bootstrap-basics/css-variables.html","title":"CSS Variables in Bootstrap","lang":"en-US","frontmatter":{"prev":"images"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-basics/css-variables.md"}');export{a as data};

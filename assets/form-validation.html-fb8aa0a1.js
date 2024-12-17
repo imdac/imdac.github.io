@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-26711fea","path":"/modules/laravel/restful-controllers/form-validation.html","title":"Form Validation","lang":"en-US","frontmatter":{"prev":"put-request"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-controllers/form-validation.md"}');export{e as data};
