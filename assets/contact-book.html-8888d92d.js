@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27227522","path":"/mtm6404/exercises/contact-book.html","title":"Contact Book","lang":"en-US","frontmatter":{"sidebar":false},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/exercises/contact-book.md"}');export{e as data};

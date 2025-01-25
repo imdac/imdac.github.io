@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-493e8b3a","path":"/modules/php/php-conditional-statements/if-statement.html","title":"PHP if Statement","lang":"en-US","frontmatter":{"prev":"/modules/php/php-conditional-statements/","next":"else-elseif-statements.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-conditional-statements/if-statement.md"}');export{t as data};

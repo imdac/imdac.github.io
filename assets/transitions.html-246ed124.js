@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a60303f6","path":"/modules/vue/managing-classes/transitions.html","title":"Vue Transitions","lang":"en-US","frontmatter":{"prev":"toggling-classes","next":"animation-framework"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/transitions.md"}');export{a as data};

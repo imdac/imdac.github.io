@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c42cffa","path":"/modules/php/php-class-inheritance/subclass.html","title":"PHP Subclass","lang":"en-US","frontmatter":{"prev":"/modules/php/php-class-inheritance/","next":"override.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-class-inheritance/subclass.md"}');export{e as data};

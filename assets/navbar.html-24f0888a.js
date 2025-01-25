@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-176ad0aa","path":"/modules/bootstrap/bootstrap-navs/navbar.html","title":"Navbar","lang":"en-US","frontmatter":{"prev":"navigation-basics","next":"branding"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-navs/navbar.md"}');export{a as data};

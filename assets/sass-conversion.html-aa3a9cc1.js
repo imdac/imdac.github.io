@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e30d6786","path":"/mtm6201/exercises/sass-conversion.html","title":"Sass Conversion","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"mtm6201/exercises/sass-conversion.md"}');export{e as data};
