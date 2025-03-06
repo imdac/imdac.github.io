@@ -1,0 +1,1 @@
+import{_ as s,p as o,q as n,R as e,t as a}from"./framework-dd056dd6.js";const r={},t=e("h1",{id:"sass-conversion",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sass-conversion","aria-hidden":"true"},"#"),a(" Sass Conversion")],-1),c=[t];function i(_,d){return o(),n("div",null,c)}const l=s(r,[["render",i],["__file","sass-conversion.html.vue"]]);export{l as default};

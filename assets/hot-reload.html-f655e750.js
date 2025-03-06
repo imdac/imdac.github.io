@@ -1,0 +1,35 @@
+import{_ as t,M as o,p,q as c,R as s,t as n,N as e,a3 as l}from"./framework-dd056dd6.js";const i={},u=s("h1",{id:"hot-reloading",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#hot-reloading","aria-hidden":"true"},"#"),n(" Hot Reloading")],-1),r={class:"custom-container warning"},d=s("p",{class:"custom-container-title"},"NOTE",-1),k={href:"https://vuex.vuejs.org/",target:"_blank",rel:"noopener noreferrer"},m={href:"https://webpack.js.org/guides/hot-module-replacement/",target:"_blank",rel:"noopener noreferrer"},v={href:"https://github.com/AgentME/browserify-hmr/",target:"_blank",rel:"noopener noreferrer"},h=l(`<p>For mutations and modules, you need to use the <code>store.hotUpdate()</code> API method:</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// store.js</span>
+<span class="token keyword">import</span> Vue <span class="token keyword">from</span> <span class="token string">&#39;vue&#39;</span>
+<span class="token keyword">import</span> Vuex <span class="token keyword">from</span> <span class="token string">&#39;vuex&#39;</span>
+<span class="token keyword">import</span> mutations <span class="token keyword">from</span> <span class="token string">&#39;./mutations&#39;</span>
+<span class="token keyword">import</span> moduleA <span class="token keyword">from</span> <span class="token string">&#39;./modules/a&#39;</span>
+
+Vue<span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>Vuex<span class="token punctuation">)</span>
+
+<span class="token keyword">const</span> state <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token operator">...</span> <span class="token punctuation">}</span>
+
+<span class="token keyword">const</span> store <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Vuex<span class="token punctuation">.</span>Store</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+  state<span class="token punctuation">,</span>
+  mutations<span class="token punctuation">,</span>
+  <span class="token literal-property property">modules</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token literal-property property">a</span><span class="token operator">:</span> moduleA
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token punctuation">)</span>
+
+<span class="token keyword">if</span> <span class="token punctuation">(</span>module<span class="token punctuation">.</span>hot<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+  <span class="token comment">// accept actions and mutations as hot modules</span>
+  module<span class="token punctuation">.</span>hot<span class="token punctuation">.</span><span class="token function">accept</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">&#39;./mutations&#39;</span><span class="token punctuation">,</span> <span class="token string">&#39;./modules/a&#39;</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=&gt;</span> <span class="token punctuation">{</span>
+    <span class="token comment">// require the updated modules</span>
+    <span class="token comment">// have to add .default here due to babel 6 module output</span>
+    <span class="token keyword">const</span> newMutations <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&#39;./mutations&#39;</span><span class="token punctuation">)</span><span class="token punctuation">.</span>default
+    <span class="token keyword">const</span> newModuleA <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&#39;./modules/a&#39;</span><span class="token punctuation">)</span><span class="token punctuation">.</span>default
+    <span class="token comment">// swap in the new modules and mutations</span>
+    store<span class="token punctuation">.</span><span class="token function">hotUpdate</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+      <span class="token literal-property property">mutations</span><span class="token operator">:</span> newMutations<span class="token punctuation">,</span>
+      <span class="token literal-property property">modules</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token literal-property property">a</span><span class="token operator">:</span> newModuleA
+      <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span><span class="token punctuation">)</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,2),b={href:"https://github.com/vuejs/vuex/tree/dev/examples/counter-hot",target:"_blank",rel:"noopener noreferrer"};function f(g,_){const a=o("ExternalLinkIcon");return p(),c("div",null,[u,s("div",r,[d,s("p",null,[n("The following documentation comes directly from the "),s("a",k,[n("vuex.vuejs.org"),e(a)]),n(".")])]),s("p",null,[n("Vuex supports hot-reloading mutations, modules, actions and getters during development, using webpack's "),s("a",m,[n("Hot Module Replacement API"),e(a)]),n(". You can also use it in Browserify with the "),s("a",v,[n("browserify-hmr"),e(a)]),n(" plugin.")]),h,s("p",null,[n("Checkout the "),s("a",b,[n("counter-hot example"),e(a)]),n(" to play with hot-reload.")])])}const y=t(i,[["render",f],["__file","hot-reload.html.vue"]]);export{y as default};

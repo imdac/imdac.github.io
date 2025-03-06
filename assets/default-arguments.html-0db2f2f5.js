@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-252d4db0","path":"/modules/php/php-functions/default-arguments.html","title":"PHP Default Arguments","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/php/php-functions/default-arguments.md"}');export{t as data};

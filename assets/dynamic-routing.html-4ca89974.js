@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a4ba5b94","path":"/modules/vue/vue-router/dynamic-routing.html","title":"Dynamic Routing","lang":"en-US","frontmatter":{"prev":"working-with-vue-router"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-router/dynamic-routing.md"}');export{e as data};

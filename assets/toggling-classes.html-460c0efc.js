@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-ce028876","path":"/modules/vue/managing-classes/toggling-classes.html","title":"Toggling Classes","lang":"en-US","frontmatter":{"prev":"computing-classes","next":"transitions"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/toggling-classes.md"}');export{s as data};
