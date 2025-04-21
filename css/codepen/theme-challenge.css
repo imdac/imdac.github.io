@@ -1,0 +1,14 @@
+#embed-nav li a {
+  color: #333;
+  border-radius: 0;
+}
+
+#embed-nav .code-types a.active {
+  color: #46bd87;
+  box-shadow: inset 0px -3px #46bd87;
+}
+
+#output pre {
+  font-size: 16px;
+  line-height: 1.6;
+}

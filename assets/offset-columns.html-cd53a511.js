@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-abb03ce4","path":"/modules/bootstrap/bootstrap-grid/offset-columns.html","title":"Bootstrap Offset Columns","lang":"en-US","frontmatter":{"prev":"responsive-columns","next":"nested-columns"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-grid/offset-columns.md"}');export{t as data};

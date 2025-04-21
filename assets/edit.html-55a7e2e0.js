@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-430aa514","path":"/modules/laravel/restful-apis/edit.html","title":"Editing a Record","lang":"en-US","frontmatter":{"prev":"add","next":"delete"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-apis/edit.md"}');export{e as data};

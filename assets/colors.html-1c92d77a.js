@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-54ee04e0","path":"/modules/bootstrap/bootstrap-basics/colors.html","title":"Bootstrap Colors","lang":"en-US","frontmatter":{"prev":"lists-blockquotes","next":"images"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-basics/colors.md"}');export{t as data};

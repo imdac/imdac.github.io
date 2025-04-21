@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as o}from"./framework-dd056dd6.js";const i={},c=e("h1",{id:"animation",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#animation","aria-hidden":"true"},"#"),o(" Animation")],-1),r=[c];function s(_,d){return a(),n("div",null,r)}const l=t(i,[["render",s],["__file","index.html.vue"]]);export{l as default};

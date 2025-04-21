@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-12499712","path":"/modules/programming/","title":"Programming Foundations","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/programming/README.md"}');export{a as data};

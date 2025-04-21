@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d5246a8","path":"/modules/vue/lifecycle-hooks/","title":"Lifecycle Hooks","lang":"en-US","frontmatter":{"prev":"/modules/vue/root-component/","next":"/modules/vue/vue-computed-properties/"},"headers":[],"git":{},"filePathRelative":"modules/vue/lifecycle-hooks/README.md"}');export{e as data};

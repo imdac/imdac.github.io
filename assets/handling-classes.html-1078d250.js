@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7eaf4fae","path":"/modules/js/js-jquery/handling-classes.html","title":"Handling Classes with jQuery","lang":"en-US","frontmatter":{"prev":"selecting-elements","next":"inserting-html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/handling-classes.md"}');export{e as data};

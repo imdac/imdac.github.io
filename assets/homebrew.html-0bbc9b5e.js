@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-589e0d4e","path":"/modules/tools/development/laravel/mac/homebrew.html","title":"Installing Homebrew","lang":"en-US","frontmatter":{"prev":"xcode","next":"git"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/homebrew.md"}');export{e as data};

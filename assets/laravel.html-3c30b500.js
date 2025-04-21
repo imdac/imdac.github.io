@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9cd38142","path":"/modules/tools/development/laravel/mac/laravel.html","title":"Installing Laravel on macOS","lang":"en-US","frontmatter":{"prev":"xdebug"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/laravel.md"}');export{e as data};

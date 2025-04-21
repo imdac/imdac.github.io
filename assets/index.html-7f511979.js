@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c5151d24","path":"/modules/css/css-precedence/","title":"CSS Order of Importance (Precedence)","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/css/css-precedence/README.md"}');export{e as data};

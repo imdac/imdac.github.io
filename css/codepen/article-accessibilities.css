@@ -1,0 +1,93 @@
+body {
+  overflow: auto;
+}
+
+.instructions {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 40vw;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+  background-color: #333;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.article {
+  background-color: white;
+  padding: 1rem;
+}
+
+.article, .article a {
+  color: #ccc;
+  font-size: 0.5rem;
+  line-height: 0;
+  text-decoration: none;
+}
+
+.article a {
+  font-size: inherit;
+  color: inherit;
+}
+
+h1, h2, h3, h4, h5 {
+  margin-bottom: 0.25rem;
+}
+
+h1 {
+  color: white;
+  font-size: 3.5rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+p {
+  margin-top: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 213px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.footer {
+  padding: 1rem;
+  background-color: #333;
+  
+}
+
+.footer p, .footer a {
+  color: white;
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+.footer a {
+  color: dodgerblue;
+}
+
+.footer ul {
+  font-size: 0.8rem;
+  list-style: none;
+}
+
+.instructions a:link, .instructions a:visited {
+  color: #c00;
+}

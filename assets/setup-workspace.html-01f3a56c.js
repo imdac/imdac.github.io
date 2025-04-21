@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c8a9f5d","path":"/mtm6404/labs/setup-workspace.html","title":"Setup Workspace","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/labs/setup-workspace.md"}');export{e as data};

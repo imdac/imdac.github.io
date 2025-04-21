@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-088129dd","path":"/modules/tools/development/mac/xcode.html","title":"Installing Xcode Command Line Tools","lang":"en-US","frontmatter":{"prev":"/modules/tools/development/mac/","next":"homebrew"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/mac/xcode.md"}');export{e as data};

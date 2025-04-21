@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-b0683270","path":"/modules/js/js-classes/","title":"JavaScript Classes","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/js/js-classes/README.md"}');export{s as data};

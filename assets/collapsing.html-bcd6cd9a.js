@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8608ec5e","path":"/modules/bootstrap/bootstrap-navs/collapsing.html","title":"Collapsing Navbar Content","lang":"en-US","frontmatter":{"prev":"positioning"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-navs/collapsing.md"}');export{t as data};

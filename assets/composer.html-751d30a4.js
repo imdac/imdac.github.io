@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ddc76c0c","path":"/modules/tools/development/laravel/mac/composer.html","title":"Installing Composer for macOS","lang":"en-US","frontmatter":{"prev":"mysql","next":"valet"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/composer.md"}');export{e as data};

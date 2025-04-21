@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-70efc54c","path":"/modules/js/for-in-loop/","title":"For...in Loop","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/js/_for-in-loop/README.md"}');export{e as data};

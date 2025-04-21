@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-6e316fdc","path":"/modules/sass/sass-basics/partials.html","title":"Sass Partials","lang":"en-US","frontmatter":{"prev":"nesting","next":"mixin"},"headers":[],"git":{},"filePathRelative":"modules/sass/sass-basics/partials.md"}');export{s as data};

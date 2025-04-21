@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7f573427","path":"/modules/sql/sql-basics/limit.html","title":"The LIMIT Clause","lang":"en-US","frontmatter":{"prev":"aliases.html","next":"subqueries.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-basics/limit.md"}');export{e as data};

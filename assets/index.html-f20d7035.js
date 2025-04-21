@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7c2abc42","path":"/modules/tools/laragon/","title":"Laragon","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/tools/laragon/README.md"}');export{a as data};

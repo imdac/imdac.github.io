@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-7b905a43","path":"/modules/sass/sass-basics/mixin.html","title":"Sass Mixin Basics","lang":"en-US","frontmatter":{"prev":"partials","next":"extend"},"headers":[],"git":{},"filePathRelative":"modules/sass/sass-basics/mixin.md"}');export{s as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d532823","path":"/modules/vue/vue-cli/components.html","title":"Single File Vue Components","lang":"en-US","frontmatter":{"prev":"directory-structure"},"headers":[{"level":2,"title":"References","slug":"references","link":"#references","children":[]}],"git":{},"filePathRelative":"modules/vue/vue-cli/components.md"}');export{e as data};

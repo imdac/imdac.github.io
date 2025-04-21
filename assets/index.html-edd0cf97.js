@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3bd3e407","path":"/modules/php/php-class-inheritance/","title":"PHP Class Inheritance","lang":"en-US","frontmatter":{"next":"subclass.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-class-inheritance/README.md"}');export{e as data};

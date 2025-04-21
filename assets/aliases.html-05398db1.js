@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-019bdc84","path":"/modules/sql/sql-basics/aliases.html","title":"Aliases","lang":"en-US","frontmatter":{"prev":"select.html","next":"limit.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-basics/aliases.md"}');export{e as data};

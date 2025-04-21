@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0fed5a0e","path":"/modules/sql/sql-joins/inner-joins.html","title":"INNER JOINs","lang":"en-US","frontmatter":{"prev":"/modules/sql/sql-joins/","next":"outer-joins.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-joins/inner-joins.md"}');export{e as data};

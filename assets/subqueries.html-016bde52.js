@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-530c46ea","path":"/modules/sql/sql-basics/subqueries.html","title":"Subqueries","lang":"en-US","frontmatter":{"prev":"limit.html","next":"insert.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-basics/subqueries.md"}');export{e as data};

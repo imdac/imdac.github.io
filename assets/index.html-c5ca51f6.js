@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-71e5db10","path":"/modules/bootstrap/bootstrap-components/","title":"Bootstrap Components","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-components/README.md"}');export{t as data};

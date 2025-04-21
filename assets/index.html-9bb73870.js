@@ -1,0 +1,1 @@
+import{_ as n,p as a,q as o,R as e,t}from"./framework-dd056dd6.js";const r={},s=e("h1",{id:"programming-foundations",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#programming-foundations","aria-hidden":"true"},"#"),t(" Programming Foundations")],-1),i=[s];function c(d,_){return a(),o("div",null,i)}const f=n(r,[["render",c],["__file","index.html.vue"]]);export{f as default};

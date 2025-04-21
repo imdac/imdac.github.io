@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c9bf4ce4","path":"/modules/vue/vue-templates/methods.html","title":"Methods","lang":"en-US","frontmatter":{"prev":"computed-properties"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-templates/methods.md"}');export{e as data};

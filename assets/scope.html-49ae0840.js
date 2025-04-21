@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1c30d3e6","path":"/modules/php/php-functions/scope.html","title":"PHP Variable Scope","lang":"en-US","frontmatter":{"prev":"returning-values.html","next":"default-arguments.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-functions/scope.md"}');export{e as data};

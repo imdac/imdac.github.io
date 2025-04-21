@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-926fdcc8","path":"/modules/tools/development/laravel/win/phpmyadmin.html","title":"Installing phpMyAdmin for Windows","lang":"en-US","frontmatter":{"prev":"mysql-password"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/phpmyadmin.md"}');export{e as data};

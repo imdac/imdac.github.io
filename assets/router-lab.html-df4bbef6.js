@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-715d6b27","path":"/mtm6404/labs/router-lab.html","title":"A Router Lab","lang":"en-US","frontmatter":{"sidebar":false},"headers":[],"git":{},"filePathRelative":"mtm6404/labs/router-lab.md"}');export{t as data};

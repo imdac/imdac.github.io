@@ -1,0 +1,19 @@
+import{_ as t,M as r,p as o,q as i,R as e,t as s,N as a,a3 as l}from"./framework-dd056dd6.js";const c={},p=e("h1",{id:"assignment-operators",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#assignment-operators","aria-hidden":"true"},"#"),s(" Assignment Operators")],-1),m={href:"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",target:"_blank",rel:"noopener noreferrer"},d=l(`<h2 id="the-equal-sign" tabindex="-1"><a class="header-anchor" href="#the-equal-sign" aria-hidden="true">#</a> The Equal Sign</h2><p>The simplest assignment operator is the equal sign (<code>=</code>). It is also most commonly used operator as well. All the others assignment operators are variations of the equal sign.</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token comment">// Using the equal sign to assign value to variable number</span>
+<span class="token keyword">let</span> number <span class="token operator">=</span> <span class="token number">5</span>
+
+<span class="token comment">// Using the equal sign to change the value of number</span>
+number <span class="token operator">=</span> <span class="token number">3</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="arithmetic-assignment-operators" tabindex="-1"><a class="header-anchor" href="#arithmetic-assignment-operators" aria-hidden="true">#</a> Arithmetic Assignment Operators</h2><p>JavaScript has various <em>shorthand</em> operators that can be used to complete arithmetic operations.</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">let</span> number <span class="token operator">=</span> <span class="token number">5</span>
+
+<span class="token comment">// Addition assignment</span>
+number <span class="token operator">+=</span> <span class="token number">3</span> <span class="token comment">// same as: number = number + 3</span>
+
+<span class="token comment">// Subtraction assignment</span>
+number <span class="token operator">-=</span> <span class="token number">3</span> <span class="token comment">// same as: number = number - 3</span>
+
+<span class="token comment">// Multiplication assignment</span>
+number <span class="token operator">*=</span> <span class="token number">3</span> <span class="token comment">// same as: number = number * 3</span>
+
+<span class="token comment">// Division assignment</span>
+number <span class="token operator">/=</span> <span class="token number">3</span> <span class="token comment">// same as: number = number / 3 </span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,6),u={class:"footer"},v=e("h4",null,"Additional Resources",-1),h={href:"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators",target:"_blank",rel:"noopener noreferrer"};function b(g,k){const n=r("ExternalLinkIcon");return o(),i("div",null,[p,e("p",null,[s("An "),e("a",m,[s("assignment operators"),a(n)]),s(" assigns a value to left operand to the value of the expression on the right.")]),d,e("footer",u,[v,e("ul",null,[e("li",null,[e("a",h,[s("Assignment operators"),a(n)])])])])])}const f=t(c,[["render",b],["__file","assignment-operators.html.vue"]]);export{f as default};

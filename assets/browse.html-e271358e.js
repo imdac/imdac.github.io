@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-329ccf54","path":"/modules/laravel/restful-apis/browse.html","title":"Browsing Records","lang":"en-US","frontmatter":{"prev":"/modules/laravel/restful-apis/","next":"read"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-apis/browse.md"}');export{e as data};

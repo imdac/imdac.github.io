@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-04abe5f2","path":"/modules/tools/development/laravel/win/laravel.html","title":"Installing Laravel on Windows","lang":"en-US","frontmatter":{"prev":"xdebug"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/laravel.md"}');export{e as data};

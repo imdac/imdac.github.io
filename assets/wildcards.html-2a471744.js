@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37105c3a","path":"/modules/laravel/laravel-routes/wildcards.html","title":"Laravel Route Wildcards","lang":"en-US","frontmatter":{"prev":"pass-requests","next":"controllers"},"headers":[],"git":{},"filePathRelative":"modules/laravel/laravel-routes/wildcards.md"}');export{e as data};

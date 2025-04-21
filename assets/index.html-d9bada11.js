@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as s}from"./framework-dd056dd6.js";const c={},n=e("h1",{id:"firebase",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#firebase","aria-hidden":"true"},"#"),s(" Firebase")],-1),o=[n];function i(_,d){return t(),r("div",null,o)}const h=a(c,[["render",i],["__file","index.html.vue"]]);export{h as default};

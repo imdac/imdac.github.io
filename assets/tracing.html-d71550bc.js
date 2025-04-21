@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6b96e2d2","path":"/modules/js/js-debugging/tracing.html","title":"Code Tracing in JavaScript","lang":"en-US","frontmatter":{"prev":"/modules/js/js-debugging/","next":"error-messages"},"headers":[],"git":{},"filePathRelative":"modules/js/js-debugging/tracing.md"}');export{e as data};

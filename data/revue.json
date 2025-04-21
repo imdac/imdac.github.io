@@ -1,0 +1,139 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "JavaScript Quiz",
+      "type": "JavaScript",
+      "createdOn": "March 2, 2020"
+    },
+    {
+      "id": 2,
+      "title": "HTML Quiz",
+      "type": "HTML",
+      "createdOn": "March 2, 2020"
+    },
+    {
+      "id": 3,
+      "title": "CSS Quiz",
+      "type": "CSS",
+      "createdOn": "March 2, 2020"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Inside which HTML element do we put the JavaScript?",
+      "options": [
+        "<js>",
+        "<javascript>",
+        "<scripting>",
+        "<script>"
+      ],
+      "answer": "<script>",
+      "quizzes": [1]
+    },
+    {
+      "id": 2,
+      "text": "What is the correct syntax for referring to an external script called \"xxx.js\"?",
+      "options": [
+        "<script name=\"xxx.js\">",
+        "<script src=\"xxx.js\">",
+        "<script href=\"xxx.js\">"
+      ],
+      "answer": "<script src=\"xxx.js\">",
+      "quizzes": [1]
+    },
+    {
+      "id": 3,
+      "text": "How do you create a function in JavaScript?",
+      "options": [
+        "function:myFunction()",
+        "function myFunction()",
+        "function = myFunction()"
+      ],
+      "answer": "function myFunction()",
+      "quizzes": [1]
+    },
+    {
+      "id": 4,
+      "text": "How do you call a function named \"myFunction\"?",
+      "options": [
+        "myFunction()",
+        "call function myFunction()",
+        "call myFunction()"
+      ],
+      "answer": "myFunction()",
+      "quizzes": [1]
+    },
+    {
+      "id": 5,
+      "text": "How to write an IF statement in JavaScript?",
+      "options": [
+        "if i === 5 then",
+        "if (i === 5)",
+        "if i = 5",
+        "if i = 5 then"
+      ],
+      "answer": "if (i === 5)",
+      "quizzes": [1]
+    },
+    {
+      "id": 6,
+      "text": "What does HTML stand for?",
+      "options": [
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Hyper Text Markup Language"
+      ],
+      "answer": "Hyper Text Markup Language",
+      "quizzes": [2]
+    },
+    {
+      "id": 7,
+      "text": "Choose the correct HTML element for the largest heading:",
+      "options": [
+        "<heading>",
+        "<h6>",
+        "<h1>",
+        "<head>"
+      ],
+      "answer": "<h1>",
+      "quizzes": [2]
+    },
+    {
+      "id": 8,
+      "text": "What is the correct HTML for creating a hyperlink?",
+      "options": [
+        "<a>http://www.w3schools.com</a>",
+        "<a url=\"http://www.w3schools.com\">W3Schools.com</a>",
+        "<a href=\"http://www.w3schools.com\">W3Schools</a>",
+        "<a name=\"http://www.w3schools.com\">W3Schools.com</a>"
+      ],
+      "answer": "<a href=\"http://www.w3schools.com\">W3Schools</a>",
+      "quizzes": [2]
+    },
+    {
+      "id": 9,
+      "text": "What does CSS stand for?",
+      "options": [
+        "Computer Style Sheets",
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "answer": "Cascading Style Sheets",
+      "quizzes": [3]
+    },
+    {
+      "id": 10,
+      "text": "What is the correct HTML for referring to an external style sheet?",
+      "options": [
+        "<link rel=\"stylesheet\" href=\"mystyle.css\">",
+        "<style src=\"mystyle.css\">",
+        "<stylesheet>mystyle.css</stylesheet>"
+      ],
+      "answer": "<link rel=\"stylesheet\" href=\"mystyle.css\">",
+      "quizzes": [3]
+    }
+  ]
+}

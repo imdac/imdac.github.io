@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-58f64ab7","path":"/modules/php/php-basics/echo.html","title":"PHP Echo","lang":"en-US","frontmatter":{"prev":"php-syntax.html","next":"comments.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-basics/echo.md"}');export{e as data};

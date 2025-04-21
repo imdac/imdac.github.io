@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b4d06344","path":"/modules/php/php-object-access-control/visibility-modifiers.html","title":"PHP Visibility Modifiers","lang":"en-US","frontmatter":{"prev":"/modules/php/php-object-access-control/","next":"overloading.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-access-control/visibility-modifiers.md"}');export{e as data};

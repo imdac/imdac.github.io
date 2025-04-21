@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-b02ae064","path":"/modules/cmd/bash-commands.html","title":"Bash Commands","lang":"en-US","frontmatter":{"title":"Bash Commands"},"headers":[],"git":{},"filePathRelative":"modules/cmd/bash-commands.md"}');export{a as data};

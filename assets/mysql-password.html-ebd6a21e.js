@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7da7467e","path":"/modules/tools/development/laravel/win/mysql-password.html","title":"Update MySQL Password","lang":"en-US","frontmatter":{"prev":"php","next":"phpmyadmin"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/mysql-password.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-000571f0","path":"/modules/php/php-data-objects/connecting.html","title":"Connecting with PDO","lang":"en-US","frontmatter":{"prev":"dsn","next":"fetching-results"},"headers":[],"git":{},"filePathRelative":"modules/php/php-data-objects/connecting.md"}');export{t as data};

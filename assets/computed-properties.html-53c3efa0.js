@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3bff236d","path":"/modules/vue/vue-templates/computed-properties.html","title":"Computed Properties","lang":"en-US","frontmatter":{"prev":"attributes","next":"methods"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-templates/computed-properties.md"}');export{e as data};

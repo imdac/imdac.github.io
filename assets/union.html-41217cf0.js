@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4b675cf1","path":"/modules/sql/sql-joins/union.html","title":"UNION Statements","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-joins/union.md"}');export{t as data};

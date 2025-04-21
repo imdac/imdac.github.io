@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as c}from"./framework-dd056dd6.js";const n={},s=e("h1",{id:"laravel",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#laravel","aria-hidden":"true"},"#"),c(" Laravel")],-1),o=[s];function _(d,l){return t(),r("div",null,o)}const h=a(n,[["render",_],["__file","index.html.vue"]]);export{h as default};

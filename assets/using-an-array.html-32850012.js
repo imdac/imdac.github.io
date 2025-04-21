@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5ca435a4","path":"/modules/js/html-creation/using-an-array.html","title":"Using an Array","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Arrays","slug":"arrays","link":"#arrays","children":[]}],"git":{},"filePathRelative":"modules/js/html-creation/using-an-array.md"}');export{a as data};

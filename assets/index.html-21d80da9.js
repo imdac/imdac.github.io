@@ -1,0 +1,1 @@
+const l=JSON.parse('{"key":"v-e61efe96","path":"/modules/programming/flowcharts/","title":"Flowcharts","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Flowchart Symbols","slug":"flowchart-symbols","link":"#flowchart-symbols","children":[]}],"git":{},"filePathRelative":"modules/programming/flowcharts/README.md"}');export{l as data};

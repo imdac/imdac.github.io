@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-177206a3","path":"/modules/sql/databases/numeric-datatypes.html","title":"Numeric Datatypes","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/sql/databases/numeric-datatypes.md"}');export{a as data};

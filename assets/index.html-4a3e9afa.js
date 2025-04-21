@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47b0991c","path":"/modules/js/js-jquery/","title":"Introduction to jQuery","lang":"en-US","frontmatter":{"next":"adding-jquery"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/README.md"}');export{e as data};

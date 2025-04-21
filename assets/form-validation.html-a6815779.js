@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7a5209a4","path":"/modules/laravel/forms/form-validation.html","title":"Form Validation","lang":"en-US","frontmatter":{"prev":"put-requests"},"headers":[],"git":{},"filePathRelative":"modules/laravel/forms/form-validation.md"}');export{a as data};

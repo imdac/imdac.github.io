@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0026c3e6","path":"/modules/php/php-class-inheritance/override.html","title":"PHP Class Override","lang":"en-US","frontmatter":{"prev":"subclass.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-class-inheritance/override.md"}');export{e as data};

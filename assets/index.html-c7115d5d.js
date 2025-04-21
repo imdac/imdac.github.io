@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43e211b6","path":"/modules/laravel/laravel-eloquent/","title":"Laravel Eloquent","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/laravel/laravel-eloquent/README.md"}');export{e as data};

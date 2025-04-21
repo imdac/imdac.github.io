@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-00339860","path":"/modules/css/css-pseudo-elements/","title":"CSS Pseudo-elements","lang":"en-US","frontmatter":{"next":"before-after"},"headers":[],"git":{},"filePathRelative":"modules/css/css-pseudo-elements/README.md"}');export{e as data};

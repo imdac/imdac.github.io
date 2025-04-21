@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-38a79f11","path":"/modules/php/php-data-objects/","title":"PHP Data Objects","lang":"en-US","frontmatter":{"next":"dsn.md"},"headers":[],"git":{},"filePathRelative":"modules/php/php-data-objects/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-9da5b6b4","path":"/modules/laravel/databases/migrations.html","title":"Migrations","lang":"en-US","frontmatter":{"prev":"eloquent-basics"},"headers":[],"git":{},"filePathRelative":"modules/laravel/databases/migrations.md"}');export{a as data};
