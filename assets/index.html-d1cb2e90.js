@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ab038828","path":"/modules/laravel/laravel-views/","title":"Laravel Views","lang":"en-US","frontmatter":{"next":"blade"},"headers":[],"git":{},"filePathRelative":"modules/laravel/laravel-views/README.md"}');export{e as data};

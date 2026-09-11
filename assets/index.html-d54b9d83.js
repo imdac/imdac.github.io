@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-49516607","path":"/modules/react/react-router/","title":"React Router","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/react/react-router/README.md"}');export{e as data};

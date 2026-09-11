@@ -1,0 +1,1 @@
+import{_ as a,p as n,q as t,R as e,t as i}from"./framework-dd056dd6.js";const c={},o=e("h1",{id:"dynamic-navigation",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#dynamic-navigation","aria-hidden":"true"},"#"),i(" Dynamic Navigation")],-1),r=[o];function s(d,_){return n(),t("div",null,r)}const l=a(c,[["render",s],["__file","index.html.vue"]]);export{l as default};

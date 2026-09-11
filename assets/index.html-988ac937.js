@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-814c8ac0","path":"/modules/bootstrap/bootstrap-sass/","title":"Bootstrap and Sass","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-sass/README.md"}');export{t as data};

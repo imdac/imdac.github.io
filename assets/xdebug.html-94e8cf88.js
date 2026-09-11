@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-624ede6c","path":"/modules/tools/development/laravel/win/xdebug.html","title":"Installing Xdebug for Windows","lang":"en-US","frontmatter":{"prev":"phpmyadmin"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/xdebug.md"}');export{e as data};

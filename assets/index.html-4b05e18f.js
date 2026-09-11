@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-6410c892","path":"/modules/laravel/forms/","title":"Laravel and Forms","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/laravel/forms/README.md"}');export{a as data};

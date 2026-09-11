@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ad1f955c","path":"/modules/react/components/children.html","title":"Component Children","lang":"en-US","frontmatter":{"prev":"/modules/react/components/properties.html","next":"/modules/react/conditional-rendering/"},"headers":[],"git":{},"filePathRelative":"modules/react/components/children.md"}');export{e as data};

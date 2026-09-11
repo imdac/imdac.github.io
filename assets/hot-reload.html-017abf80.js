@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-444e0a6d","path":"/modules/vue/vuex/hot-reload.html","title":"Hot Reloading","lang":"en-US","frontmatter":{"prev":"testing"},"headers":[],"git":{},"filePathRelative":"modules/vue/vuex/hot-reload.md"}');export{e as data};

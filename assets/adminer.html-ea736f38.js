@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-169fd24f","path":"/modules/tools/development/laravel/win/adminer.html","title":"Updating adminer for Windows","lang":"en-US","frontmatter":{"prev":"php","next":"xdebug"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/adminer.md"}');export{e as data};

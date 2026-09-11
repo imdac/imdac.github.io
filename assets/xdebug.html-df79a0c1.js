@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dda5b942","path":"/modules/tools/development/laravel/mac/xdebug.html","title":"Installing Xdebug for macOS","lang":"en-US","frontmatter":{"prev":"phpmyadmin"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/xdebug.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ffabe2da","path":"/modules/vue/vuex/","title":"Vuex","lang":"en-US","frontmatter":{"next":"state"},"headers":[{"level":3,"title":"The Simplest Store","slug":"the-simplest-store","link":"#the-simplest-store","children":[]}],"git":{},"filePathRelative":"modules/vue/vuex/README.md"}');export{e as data};

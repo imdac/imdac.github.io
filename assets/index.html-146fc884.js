@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a337a076","path":"/modules/react/events/","title":"React Events","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/react/events/README.md"}');export{e as data};

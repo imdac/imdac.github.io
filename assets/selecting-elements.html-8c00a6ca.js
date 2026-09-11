@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45c58669","path":"/modules/js/js-jquery/selecting-elements.html","title":"Selecting Elements with jQuery","lang":"en-US","frontmatter":{"prev":"adding-jquery","next":"handling-classes"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/selecting-elements.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10fcb917","path":"/modules/css/css-reset/","title":"CSS Reset","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Resources","slug":"resources","link":"#resources","children":[]}],"git":{},"filePathRelative":"modules/css/css-reset/README.md"}');export{e as data};

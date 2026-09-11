@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25f928c0","path":"/modules/vue/vue-cli/overview.html","title":"Vue CLI Overview","lang":"en-US","frontmatter":{"prev":"installation","next":"components"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-cli/overview.md"}');export{e as data};

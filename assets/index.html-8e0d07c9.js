@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40d2fb89","path":"/modules/tools/development/mac/","title":"Development Tools for macOS","lang":"en-US","frontmatter":{"next":"xcode"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/mac/README.md"}');export{e as data};

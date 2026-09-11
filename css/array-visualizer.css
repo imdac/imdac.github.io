@@ -1,0 +1,51 @@
+.av-array {
+  counter-reset: index;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-rows: 30px 100px;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  padding: 0 20px;
+  margin-bottom: 30px;
+  color: #333;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.av-title {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: #666;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: normal;
+}
+
+
+.av-item {
+  counter-increment: index;
+  display: grid;
+  grid-gap: 5px;
+  /* justify-items: center; */
+}
+
+.av-item::before {
+  content: attr(data-content);
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 50px;
+  padding: 5px;
+  margin: 2px;
+  overflow: hidden;
+  
+  border: 1px solid #ccc;
+}
+
+.av-item::after {
+  content: counter(index);
+  color: #c00;
+  font-weight: bold;
+  text-align: center;
+}
+
+.av-item:first-of-type::after {
+  counter-set: index;
+}

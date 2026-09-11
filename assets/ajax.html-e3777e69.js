@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0e6bef87","path":"/modules/js/js-jquery/ajax.html","title":"Ajax with jQuery","lang":"en-US","frontmatter":{"prev":"event-handling"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/ajax.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d022919e","path":"/modules/react/lifting-state-up/","title":"Lifting State Up","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/react/lifting-state-up/README.md"}');export{t as data};

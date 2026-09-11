@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79f5d41f","path":"/modules/tools/development/laravel/mac/","title":"Development Tools for macOS","lang":"en-US","frontmatter":{"next":"xcode"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/README.md"}');export{e as data};

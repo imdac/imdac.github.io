@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4d920bc8","path":"/modules/animation/animated-backgrounds/","title":"Animated Backgrounds","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/animation/animated-backgrounds/README.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-316fd0b5","path":"/modules/php/php-predefined-variables/get.html","title":"$_GET","lang":"en-US","frontmatter":{"prev":"/modules/php/php-predefined-variables/","next":"post.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-predefined-variables/get.md"}');export{e as data};
