@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-31430f0b","path":"/modules/sass/sass-basics/","title":"Sass Basics","lang":"en-US","frontmatter":{"next":"compiling"},"headers":[],"git":{},"filePathRelative":"modules/sass/sass-basics/README.md"}');export{s as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1244a50f","path":"/modules/tools/development/laravel/mac/phpmyadmin.html","title":"Installing phpMyAdmin for macOS","lang":"en-US","frontmatter":{"prev":"course-directory"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/phpmyadmin.md"}');export{e as data};

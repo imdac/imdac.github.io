@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ffe946e6","path":"/modules/sql/databases/string-datatypes.html","title":"String Datatypes","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/sql/databases/string-datatypes.md"}');export{t as data};

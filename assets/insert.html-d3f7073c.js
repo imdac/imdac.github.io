@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-56d66cb7","path":"/modules/sql/sql-basics/insert.html","title":"INSERT Statements","lang":"en-US","frontmatter":{"prev":"subqueries.html","next":"update.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-basics/insert.md"}');export{e as data};

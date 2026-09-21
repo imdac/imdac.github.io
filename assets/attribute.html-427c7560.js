@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07dc02cc","path":"/modules/css/css-complex-selectors/attribute.html","title":"Attribute Selectors","lang":"en-US","frontmatter":{"prev":"combinators","next":"pseudo-classes"},"headers":[],"git":{},"filePathRelative":"modules/css/css-complex-selectors/attribute.md"}');export{e as data};

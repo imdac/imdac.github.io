@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-06fa26d0","path":"/modules/tools/development/mac/git.html","title":"Installing Git on macOS","lang":"en-US","frontmatter":{"prev":"homebrew","next":"node"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/mac/git.md"}');export{e as data};

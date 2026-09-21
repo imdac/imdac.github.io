@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24276a52","path":"/mtm6404/projects/movie-catalog.html","title":"Movie Catalog","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/projects/movie-catalog.md"}');export{e as data};

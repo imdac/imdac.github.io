@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-53a2dbf9","path":"/mtm6404/labs/classy-cats.html","title":"Classy Cats","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/labs/classy-cats.md"}');export{t as data};

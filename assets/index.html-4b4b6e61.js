@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8ed14928","path":"/modules/animation/","title":"Animation","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/animation/README.md"}');export{t as data};

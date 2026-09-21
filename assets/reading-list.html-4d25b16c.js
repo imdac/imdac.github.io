@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5ec370f1","path":"/mtm6404/labs/reading-list.html","title":"Reading List","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/labs/reading-list.md"}');export{e as data};

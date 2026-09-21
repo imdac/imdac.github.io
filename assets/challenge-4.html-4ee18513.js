@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-04fdef92","path":"/modules/vue/vue-components/challenge-4.html","title":"Challenge 4","lang":"en-US","frontmatter":{"prev":"single-file-components"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-components/challenge-4.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-163277a8","path":"/modules/tools/services/linkedin-learning.html","title":"LinkedIn Learning","lang":"en-US","frontmatter":{"prev":"scrimba"},"headers":[],"git":{},"filePathRelative":"modules/tools/services/linkedin-learning.md"}');export{e as data};

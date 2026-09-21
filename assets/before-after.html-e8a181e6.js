@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7baee1aa","path":"/modules/css/css-pseudo-elements/before-after.html","title":"::before and ::after","lang":"en-US","frontmatter":{"prev":"./","next":"first-letter-first-line"},"headers":[],"git":{},"filePathRelative":"modules/css/css-pseudo-elements/before-after.md"}');export{e as data};

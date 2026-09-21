@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-694962d8","path":"/modules/tools/development/laravel/mac/node.html","title":"Installing Node.js for macOS","lang":"en-US","frontmatter":{"prev":"git","next":"php"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/node.md"}');export{e as data};

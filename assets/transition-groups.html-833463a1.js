@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5ba0dfb7","path":"/modules/vue/managing-classes/transition-groups.html","title":"Vue Transition Groups","lang":"en-US","frontmatter":{"prev":"animation-framework"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/transition-groups.md"}');export{a as data};

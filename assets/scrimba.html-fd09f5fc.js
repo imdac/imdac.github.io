@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-83f1b5a0","path":"/modules/tools/services/scrimba.html","title":"Scrimba","lang":"en-US","frontmatter":{"prev":"codepen","next":"linkedin-learning"},"headers":[],"git":{},"filePathRelative":"modules/tools/services/scrimba.md"}');export{e as data};

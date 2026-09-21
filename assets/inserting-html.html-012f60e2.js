@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e41e2dd0","path":"/modules/js/js-jquery/inserting-html.html","title":"Inserting HTML with jQuery","lang":"en-US","frontmatter":{"prev":"handling-classes","next":"event-handling"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/inserting-html.md"}');export{e as data};

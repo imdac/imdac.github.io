@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e44fe254","path":"/modules/tools/development/laravel/mac/mysql.html","title":"Installing MySQL for macOS","lang":"en-US","frontmatter":{"prev":"php","next":"composer"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/mysql.md"}');export{e as data};

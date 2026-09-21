@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79fa7f32","path":"/modules/tools/development/laravel/win/","title":"Development Tools for Windows","lang":"en-US","frontmatter":{"next":"laragon"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/win/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fc3d1246","path":"/modules/tools/development/mac/nvm.html","title":"Installing NVM","lang":"en-US","frontmatter":{"prev":"git","next":"node"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/mac/nvm.md"}');export{e as data};
