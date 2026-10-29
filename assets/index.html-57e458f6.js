@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01c7bcf2","path":"/modules/animation/animation-sequences/","title":"Animation Sequences","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/animation/animation-sequences/README.md"}');export{e as data};

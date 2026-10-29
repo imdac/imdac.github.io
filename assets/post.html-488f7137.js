@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fdd77df2","path":"/modules/php/php-predefined-variables/post.html","title":"$_POST","lang":"en-US","frontmatter":{"prev":"get.html","next":"cookie.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-predefined-variables/post.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-76fed1e2","path":"/modules/js/js-operators/destructuring-assignment.html","title":"Destructuring Assignment","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/js/js-operators/destructuring-assignment.md"}');export{t as data};

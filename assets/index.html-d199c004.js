@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-506b4008","path":"/modules/php/persistent-state/","title":"Persistent State","lang":"en-US","frontmatter":{"next":"cookies"},"headers":[],"git":{},"filePathRelative":"modules/php/persistent-state/README.md"}');export{t as data};

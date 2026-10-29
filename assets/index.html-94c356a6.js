@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-828f98f0","path":"/modules/bootstrap/bootstrap-grid/","title":"Bootstrap Grid","lang":"en-US","frontmatter":{"next":"containers"},"headers":[{"level":2,"title":"Breakpoints","slug":"breakpoints","link":"#breakpoints","children":[]}],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-grid/README.md"}');export{t as data};

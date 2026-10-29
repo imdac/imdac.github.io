@@ -1,0 +1,1 @@
+import{_ as o,M as n,p as t,q as c,N as s}from"./framework-dd056dd6.js";const _={};function r(l,a){const e=n("Modules");return t(),c("div",null,[s(e)])}const m=o(_,[["render",r],["__file","index.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as s,R as e,t as a}from"./framework-dd056dd6.js";const o={},n=e("h1",{id:"php-object-basics",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#php-object-basics","aria-hidden":"true"},"#"),a(" PHP Object Basics")],-1),r=[n];function i(_,d){return c(),s("div",null,r)}const l=t(o,[["render",i],["__file","index.html.vue"]]);export{l as default};

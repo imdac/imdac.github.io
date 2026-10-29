@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0c9336b0","path":"/modules/tools/development/laravel/mac/valet.html","title":"Installing Laravel Valet","lang":"en-US","frontmatter":{"prev":"composer","next":"course-directory"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/laravel/mac/valet.md"}');export{e as data};

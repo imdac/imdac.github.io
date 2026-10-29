@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-466551cc","path":"/modules/laravel/laravel-routes/","title":"Laravel Routes","lang":"en-US","frontmatter":{"next":"basic-routing"},"headers":[],"git":{},"filePathRelative":"modules/laravel/laravel-routes/README.md"}');export{e as data};

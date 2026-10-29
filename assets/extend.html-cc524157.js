@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07fb8e14","path":"/modules/sass/sass-basics/extend.html","title":"Sass @extend Rule","lang":"en-US","frontmatter":{"prev":"mixin","next":"parent-selector"},"headers":[],"git":{},"filePathRelative":"modules/sass/sass-basics/extend.md"}');export{e as data};

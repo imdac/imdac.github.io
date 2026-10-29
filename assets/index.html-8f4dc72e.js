@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7cdb6892","path":"/modules/php/php-numbers/","title":"PHP Numbers","lang":"en-US","frontmatter":{"next":"integers.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-numbers/README.md"}');export{e as data};

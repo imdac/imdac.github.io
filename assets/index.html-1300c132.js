@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-63952981","path":"/modules/css/css-pseudo-classes/","title":"CSS Pseudo Classes","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/css/css-pseudo-classes/README.md"}');export{s as data};

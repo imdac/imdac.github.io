@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-de4d4e96","path":"/modules/sql/databases/phpMyAdmin.html","title":"phpMyAdmin","lang":"en-US","frontmatter":{"prev":"mysql.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/databases/phpMyAdmin.md"}');export{e as data};

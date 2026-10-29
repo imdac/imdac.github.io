@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2736ab8a","path":"/modules/js/js-frameworks/","title":"JavaScript Frameworks & Libraries","lang":"en-US","frontmatter":{"next":"modern-frameworks.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-frameworks/README.md"}');export{e as data};

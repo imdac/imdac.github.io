@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d1868d0","path":"/modules/tools/services/udacity.html","title":"Udacity","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/tools/services/udacity.md"}');export{t as data};

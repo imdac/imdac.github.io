@@ -1,0 +1,60 @@
+body {
+  background-color: #FF736B;
+}
+
+.outline {
+  position: fixed;
+  display: grid;
+  grid-template-columns: repeat(9, 50px);
+  grid-template-rows: repeat(9, 50px);
+  border-bottom: 2px dashed transparent;
+  border-right: 2px dashed transparent;
+}
+
+.outline-item {
+  border-top: 2px dashed transparent;
+  border-left: 2px dashed transparent;
+}
+
+.outline.show,
+.outline.show .outline-item {
+  border-color: #000;
+}
+
+.grid {
+  position: relative;
+  width: 450px;
+  height: 450px;
+}
+
+.grid-item {
+  box-sizing: border-box;
+  counter-increment: block;
+  border: 1px solid transparent;
+}
+
+.grid-item.show {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-color: #fff;
+}
+
+.grid.show .grid-item {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-color: #fff;
+}
+
+.grid-item::before {
+  content: counter(block);
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  width: 48px;
+  height: 48px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.button {
+  margin-top: 25px;
+}

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ace40a7","path":"/modules/sql/sql-basics/update.html","title":"UPDATE Statements","lang":"en-US","frontmatter":{"prev":"insert.html","next":"delete.html"},"headers":[],"git":{},"filePathRelative":"modules/sql/sql-basics/update.md"}');export{e as data};

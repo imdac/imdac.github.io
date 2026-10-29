@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-318c59c0","path":"/modules/bootstrap/bootstrap-navs/branding.html","title":"Branding in the Navbar","lang":"en-US","frontmatter":{"prev":"navbar","next":"dropdowns"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-navs/branding.md"}');export{t as data};

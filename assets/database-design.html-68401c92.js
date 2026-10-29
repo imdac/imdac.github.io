@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-c04e38fc","path":"/modules/sql/databases/database-design.html","title":"Database Design","lang":"en-US","frontmatter":{"title":"Database Design","tags":["week5"],"order":2,"draft":true},"headers":[],"git":{},"filePathRelative":"modules/sql/databases/database-design.md"}');export{a as data};

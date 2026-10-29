@@ -1,0 +1,1 @@
+const s="/images/git-mac-download-manually.png",a="/images/git-mac-security-block.png",e="/images/git-mac-system-preferences-1.png",t="/images/git-mac-system-preferences-2.png";export{s as _,a,e as b,t as c};

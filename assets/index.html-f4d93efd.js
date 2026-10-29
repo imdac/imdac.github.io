@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-30d2d4da","path":"/modules/php/php-object-access-control/","title":"PHP Object Access Control","lang":"en-US","frontmatter":{"next":"visibility-modifiers.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-access-control/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as s}from"./framework-dd056dd6.js";const r={},n=e("h1",{id:"react-js",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#react-js","aria-hidden":"true"},"#"),s(" React.js")],-1),o=[n];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

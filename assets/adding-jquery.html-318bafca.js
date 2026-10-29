@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-666ddbc1","path":"/modules/js/js-jquery/adding-jquery.html","title":"Adding jQuery","lang":"en-US","frontmatter":{"prev":"/modules/js/js-jquery/","next":"selecting-elements"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/adding-jquery.md"}');export{e as data};

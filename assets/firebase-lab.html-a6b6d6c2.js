@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5b97b469","path":"/mtm6404/labs/firebase-lab.html","title":"A Firebase Lab","lang":"en-US","frontmatter":{"sidebar":false},"headers":[],"git":{},"filePathRelative":"mtm6404/labs/firebase-lab.md"}');export{a as data};

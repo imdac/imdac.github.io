@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5223986f","path":"/modules/js/js-jquery/event-handling.html","title":"Event Handling with jQuery","lang":"en-US","frontmatter":{"prev":"inserting-html","next":"ajax"},"headers":[],"git":{},"filePathRelative":"modules/js/js-jquery/event-handling.md"}');export{e as data};

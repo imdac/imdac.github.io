@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-12888b5b","path":"/modules/vue/vue-templates/attributes.html","title":"Attributes","lang":"en-US","frontmatter":{"prev":"interpolation","next":"computed-properties"},"headers":[],"git":{},"filePathRelative":"modules/vue/vue-templates/attributes.md"}');export{t as data};

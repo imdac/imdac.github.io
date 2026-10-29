@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-11e8760b","path":"/modules/js/js-rest-parameters/","title":"JavaScript Rest Parameters","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"See Also","slug":"see-also","link":"#see-also","children":[]}],"git":{},"filePathRelative":"modules/js/js-rest-parameters/README.md"}');export{e as data};

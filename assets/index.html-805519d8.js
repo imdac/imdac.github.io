@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-663f0fff","path":"/modules/html/html-input/html-input-pseudo-states/","title":"Input Pseudo States","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/html/html-input/html-input-pseudo-states/README.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4fd1a2a3","path":"/mtm6130/recordings/","title":"Lecture Recordings","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Lecture 1","slug":"lecture-1","link":"#lecture-1","children":[]}],"git":{},"filePathRelative":"mtm6130/recordings/README.md"}');export{e as data};

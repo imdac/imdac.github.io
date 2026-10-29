@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-8ac7f9d4","path":"/modules/vue/managing-classes/computing-classes.html","title":"Computing Classes","lang":"en-US","frontmatter":{"prev":"binding-classes","next":"toggling-classes"},"headers":[],"git":{},"filePathRelative":"modules/vue/managing-classes/computing-classes.md"}');export{s as data};

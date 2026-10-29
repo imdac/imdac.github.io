@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10f4788b","path":"/modules/php/php-data-objects/dsn.html","title":"PDO Database Source Name","lang":"en-US","frontmatter":{"prev":"/modules/php/php-data-objects/","next":"connecting"},"headers":[],"git":{},"filePathRelative":"modules/php/php-data-objects/dsn.md"}');export{e as data};

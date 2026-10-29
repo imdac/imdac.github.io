@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ebe3f6e2","path":"/modules/js/js-operators/conditional-operator.html","title":"Conditional Operator","lang":"en-US","frontmatter":{"prev":"logical-operators.html","next":"unary-operators.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-operators/conditional-operator.md"}');export{t as data};

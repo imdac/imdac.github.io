@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0d13a572","path":"/modules/react/side-effects/","title":"Side Effects","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"modules/react/side-effects/README.md"}');export{e as data};

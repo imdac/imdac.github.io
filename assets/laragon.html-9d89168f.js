@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e7d9f13","path":"/modules/tools/development/win/laragon.html","title":"Installing Laragon","lang":"en-US","frontmatter":{"prev":"./","next":"/modules/tools/development/laravel/win/phpmyadmin"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/win/laragon.md"}');export{e as data};

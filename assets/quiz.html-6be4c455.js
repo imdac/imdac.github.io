@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0e8adedb","path":"/mtm6404/assignments/quiz.html","title":"Quiz","lang":"en-US","frontmatter":{"sidebar":"none"},"headers":[],"git":{},"filePathRelative":"mtm6404/assignments/quiz.md"}');export{e as data};

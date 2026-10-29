@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-14ab9802","path":"/modules/js/js-operators/","title":"JavaScript Operators","lang":"en-US","frontmatter":{"next":"assignment-operators.html"},"headers":[],"git":{},"filePathRelative":"modules/js/js-operators/README.md"}');export{t as data};

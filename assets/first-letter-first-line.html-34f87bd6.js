@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6f36fafe","path":"/modules/css/css-pseudo-elements/first-letter-first-line.html","title":"::first-letter and ::first-line","lang":"en-US","frontmatter":{"prev":"before-after","next":"placeholder"},"headers":[],"git":{},"filePathRelative":"modules/css/css-pseudo-elements/first-letter-first-line.md"}');export{e as data};

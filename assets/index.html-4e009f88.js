@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40d7a69c","path":"/modules/tools/development/win/","title":"Development Tools for Windows","lang":"en-US","frontmatter":{"next":"laragon"},"headers":[],"git":{},"filePathRelative":"modules/tools/development/win/README.md"}');export{e as data};

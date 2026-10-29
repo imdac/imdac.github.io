@@ -1,0 +1,95 @@
+svg.size0 {
+  width: 25px;
+  height: 25px;
+}
+
+path.size0 {
+  transform: scale(1);
+}
+
+svg.size1 {
+  width: 30px;
+  height: 30px;
+}
+
+path.size1 {
+  transform: scale(1.2);
+}
+
+svg.size2 {
+  width: 35px;
+  height: 35px;
+}
+
+path.size2 {
+  transform: scale(1.4);
+}
+
+svg.size3 {
+  width: 40px;
+  height: 40px;
+}
+
+path.size3 {
+  transform: scale(1.6);
+}
+
+svg.size4 {
+  width: 45px;
+  height: 45px;
+}
+
+path.size4 {
+  transform: scale(1.8);
+}
+
+svg.size5 {
+  width: 50px;
+  height: 50px;
+}
+
+path.size5 {
+  transform: scale(2);
+}
+
+svg.size6 {
+  width: 55px;
+  height: 55px;
+}
+
+path.size6 {
+  transform: scale(2.2);
+}
+
+svg.size7 {
+  width: 60px;
+  height: 60px;
+}
+
+path.size7 {
+  transform: scale(2.4);
+}
+
+.red {
+  fill: red;
+}
+
+.orange {
+  fill: orange;
+}
+
+.yellow {
+  fill: yellow;
+}
+
+.green {
+  fill: green;
+}
+
+.blue {
+  fill: blue;
+}
+
+.purple {
+  fill: purple;
+}

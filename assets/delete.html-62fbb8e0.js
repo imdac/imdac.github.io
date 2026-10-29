@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1eef3cd3","path":"/modules/laravel/restful-apis/delete.html","title":"Deleting a Record","lang":"en-US","frontmatter":{"prev":"edit"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-apis/delete.md"}');export{e as data};

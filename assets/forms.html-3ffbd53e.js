@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5482630","path":"/modules/bootstrap/bootstrap-navs/forms.html","title":"Forms in the Navbar","lang":"en-US","frontmatter":{"prev":"dropdowns","next":"positioning"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-navs/forms.md"}');export{t as data};

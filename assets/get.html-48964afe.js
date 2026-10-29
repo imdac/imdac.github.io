@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-382de2f4","path":"/modules/php/php-templates/get.html","title":"$_GET","lang":"en-US","frontmatter":{"prev":"includes"},"headers":[{"level":2,"title":"Dynamic Template with $_GET","slug":"dynamic-template-with-get","link":"#dynamic-template-with-get","children":[]}],"git":{},"filePathRelative":"modules/php/php-templates/get.md"}');export{e as data};

@@ -1,0 +1,73 @@
+.container {
+  display: grid;
+  justify-content: center;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+.instructions img {
+  width: 75%;
+  margin: 10px 0;
+}
+
+h4 {
+  margin: 25px 0 0 0;
+  color: #333;
+}
+
+.block {
+  box-sizing: border-box;
+  counter-increment: block;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  margin: 2px;
+  background-color: #F1c38e;
+  border-width: 4px;
+  border-style: solid;
+  font-family: sans-serif;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+.block::before {
+  content: counter(block);
+}
+
+.block:nth-child(1),
+.block:nth-child(5) {
+  border-color: blue;
+  color: blue;
+}
+
+.block:nth-child(2),
+.block:nth-child(6) {
+  border-color: red;
+  color: red;
+}
+
+.block:nth-child(3),
+.block:nth-child(7) {
+  border-color: green;
+  color: green;
+}
+
+.block:nth-child(4),
+.block:nth-child(8) {
+  border-color: purple;
+  color: purple;
+}
+
+.stack {
+  width: 260px;
+  margin: 10px 0;
+  padding: 5px;
+  border: 3px dashed #666;
+}
+
+.stack-4,
+.stack-6 {
+  height: 200px;
+}

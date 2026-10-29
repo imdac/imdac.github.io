@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-465908db","path":"/modules/php/php-functions/returning-values.html","title":"PHP Functions: Returning Values","lang":"en-US","frontmatter":{"prev":"arguments.html","next":"scope.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-functions/returning-values.md"}');export{e as data};

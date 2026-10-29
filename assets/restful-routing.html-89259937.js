@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-547588ea","path":"/modules/laravel/restful-controllers/restful-routing.html","title":"Restful Routing","lang":"en-US","frontmatter":{"prev":"/modules/laravel/restful-controllers/","next":"form-handling"},"headers":[],"git":{},"filePathRelative":"modules/laravel/restful-controllers/restful-routing.md"}');export{e as data};

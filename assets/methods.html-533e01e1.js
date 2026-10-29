@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1515ecd0","path":"/modules/php/php-object-basics/methods.html","title":"PHP Class Methods","lang":"en-US","frontmatter":{"prev":"properties.html","next":"this.html"},"headers":[],"git":{},"filePathRelative":"modules/php/php-object-basics/methods.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-af47d2a4","path":"/mtm6404/labs/control-panel.html","title":"Control Panel","lang":"en-US","frontmatter":{"sidebar":false},"headers":[],"git":{},"filePathRelative":"mtm6404/labs/control-panel.md"}');export{a as data};

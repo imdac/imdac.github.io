@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-de55abdc","path":"/mtm6404/exercises/vuecalc.html","title":"VueCalc","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Objective","slug":"objective","link":"#objective","children":[]}],"git":{},"filePathRelative":"mtm6404/exercises/vuecalc.md"}');export{e as data};
